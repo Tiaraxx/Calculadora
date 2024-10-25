@@ -11,6 +11,8 @@ Este proyecto es una calculadora creada con **HTML**, **CSS** y **JavaScript**. 
 ## 🎨 Demo
 
 ![CACULADORA](https://github.com/user-attachments/assets/97e917c8-8663-4abc-858c-7097b330580f) 
+![CALCULADORA1](https://github.com/user-attachments/assets/bbeb91f4-3969-45c5-a8b7-d9999ff28ebd)
+
 
 
 
